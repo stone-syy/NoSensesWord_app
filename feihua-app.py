@@ -4,7 +4,7 @@
 # version: 1.0
 # description: 废话文学生成APP，请勿当真
 
-import os
+import os, urllib
 import random
 import sys
 import readJSON
